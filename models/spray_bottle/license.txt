@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spray Bottle
+* source:	https://sketchfab.com/3d-models/spray-bottle-821d73fb6ff2472b813025aa82ddc385
+* author:	Pitouch-KUN (https://sketchfab.com/Pitouch-KUN)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spray Bottle" (https://sketchfab.com/3d-models/spray-bottle-821d73fb6ff2472b813025aa82ddc385) by Pitouch-KUN (https://sketchfab.com/Pitouch-KUN) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

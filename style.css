@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.logoKatharosAeras{
+    position: relative;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+
+.voirProduits{
+    position: absolute;
+    top: 40%;
+    width: 70vw;
+    min-width: 400px;
+    left: 15%;
+    right: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.voirProduits>img{
+    pointer-events: none;
+    user-select: none;
+    width: 60vw;
+    max-width: 700px;
+    margin-bottom: 30px;
+}
+
+.voirProduits>a{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 24px;
+    padding: 15px 18px;
+    font-size: 19pt;
+    background-color: #D9EFEB;
+    color: black;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.voirProduits>a:hover{
+    background-color: #8bddce;
+    transition: 0.4s;
+}
+
+.voirProduits>p{
+    font-size: 14pt;
+}
+
+@media screen and (min-width: 768px) {
+    .voirProduits>img{
+        width: 350px;
+        margin-bottom: 30px;
+    }
+
+    .voirProduits>a{
+        padding: 15px 18px;
+    }
+}
