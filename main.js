@@ -1,11 +1,11 @@
 import * as THREE from "/three";
-import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
-import { EffectComposer } from "three/examples/jsm/postprocessing/EffectComposer.js";
-import { RenderPass } from "three/examples/jsm/postprocessing/RenderPass.js";
-import { ShaderPass } from "three/examples/jsm/postprocessing/ShaderPass.js";
-import { FXAAShader } from "three/examples/jsm/shaders/FXAAShader.js";
-import * as dat from 'lil-gui';
+import { GLTFLoader } from "/three/examples/jsm/loaders/GLTFLoader.js";
+import { OrbitControls } from "/three/examples/jsm/controls/OrbitControls.js";
+import { EffectComposer } from "/three/examples/jsm/postprocessing/EffectComposer.js";
+import { RenderPass } from "/three/examples/jsm/postprocessing/RenderPass.js";
+import { ShaderPass } from "/three/examples/jsm/postprocessing/ShaderPass.js";
+import { FXAAShader } from "/three/examples/jsm/shaders/FXAAShader.js";
+import * as dat from '/lil-gui';
 
 import { CustomOutlinePass } from "./CustomOutlinePass.js";
 import FindSurfaces from "./FindSurfaces.js";
